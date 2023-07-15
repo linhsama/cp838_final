@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "dart.previewFlutterUiGuides": true,
+  "editor.guides.bracketPairs": true,
+  "dart.previewFlutterUiGuidesCustomTracking": true,
+  "editor.guides.bracketPairsHorizontal": "active",
+  "editor.guides.highlightActiveBracketPair": false,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "commentTranslate.source": "Google"
+}
